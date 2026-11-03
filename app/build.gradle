@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'org.kumarannagar.residents'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'org.kumarannagar.residents'
+        minSdk 23
+        targetSdk 36
+        versionCode 1
+        versionName '1.0'
+    }
+    buildTypes { release { minifyEnabled false } }
+}
+dependencies { implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.7.3' }

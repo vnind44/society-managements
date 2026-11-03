@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kumaran Nagar Residents Welfare</string>
+    <string name="launch_url" translatable="false">https://society-connect-senthil.senven-kumar.chatgpt.site/</string>
+    <string name="asset_statements" translatable="false">[{\"relation\":[\"delegate_permission/common.handle_all_urls\"],\"target\":{\"namespace\":\"web\",\"site\":\"https://society-connect-senthil.senven-kumar.chatgpt.site\"}}]</string>
+</resources>
